@@ -7,7 +7,6 @@ MATA PELAJARAN: BAHASA PEMOGRAMAN
 ## BUAT KODE PROGRAM PYTHON DARI FLOWCHART SEBELUMNYA:
 
     '''python
-    
     # Initialize max number to None (to handle the first input)
     max_number = None
 
@@ -28,7 +27,6 @@ MATA PELAJARAN: BAHASA PEMOGRAMAN
         print("The largest number entered is:", max_number)
     else:
         print("No numbers were entered.")
-
      '''
 
 ## FOTO FLOWCHART SEBELUMNYA
