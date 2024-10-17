@@ -26,3 +26,6 @@ else:
     print("No numbers were entered.")
 
 # FOTO FLOWCHART SEBELUMNYA
+https://github.com/Manueljds2311105/Praktikum-3/blob/fe52ba3a0d99559ab9ffa5cfa38de3701d30bca1/Flowchart%202.png
+
+# FOTO HASIL EKSEKUSI KODE PROGRAM PYTHON
