@@ -2,6 +2,7 @@ Praktikum 3
 NAMA: MANUEL JOHANSEN DOLOK SARIBU
 NIM: 312410493
 DOSEN PENGAMPU: Agung Nugroho, S.Kom., M.Kom., 
+MATA PELAJARAN: BAHASA PEMOGRAMAN 
 
 # BUAT KODE PROGRAM PYTHON DARI FLOWCHART SEBELUMNYA:
 # Initialize max number to None (to handle the first input)
