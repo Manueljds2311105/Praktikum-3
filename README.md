@@ -1,4 +1,4 @@
-Praktikum 3
+# Praktikum 3
 
 NAMA: MANUEL JOHANSEN DOLOK SARIBU
 
@@ -7,6 +7,8 @@ NIM: 312410493
 DOSEN PENGAMPU: Agung Nugroho, S.Kom., M.Kom., 
 
 MATA PELAJARAN: BAHASA PEMOGRAMAN 
+
+#Menentukan Bilangan Terbesar
 
 ## BUAT KODE PROGRAM PYTHON DARI FLOWCHART SEBELUMNYA:
 
@@ -34,7 +36,9 @@ MATA PELAJARAN: BAHASA PEMOGRAMAN
 ```
 
 ## FOTO FLOWCHART SEBELUMNYA
+
 https://github.com/Manueljds2311105/Praktikum-3/blob/fe52ba3a0d99559ab9ffa5cfa38de3701d30bca1/Flowchart%202.png
 
 ## FOTO HASIL EKSEKUSI KODE PROGRAM PYTHON
+
 https://github.com/Manueljds2311105/Praktikum-3/blob/d4b890cb2d01ebbcc122dfbba2cb4421cd78cdb7/Hasil%20Eksekusi%20Kode%20Python.png
