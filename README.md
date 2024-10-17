@@ -7,6 +7,7 @@ MATA PELAJARAN: BAHASA PEMOGRAMAN
 ## BUAT KODE PROGRAM PYTHON DARI FLOWCHART SEBELUMNYA:
 
     '''python
+    
     # Initialize max number to None (to handle the first input)
     max_number = None
 
